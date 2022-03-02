@@ -17,6 +17,18 @@ Features:
 
 
 
-4) Search for emails
-5) Show sent emails
+3) Search for emails
+
+
+![search](https://user-images.githubusercontent.com/83546763/156326437-3d44ca9c-b4cc-47d4-8fce-b2a82e57b505.gif)
+
+
+
+4) Show sent emails
+
+
+![sent_item](https://user-images.githubusercontent.com/83546763/156326452-919ba056-899a-4209-bd40-6a019f75e78c.gif)
+
+
+
 
